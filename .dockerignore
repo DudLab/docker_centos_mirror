@@ -1,0 +1,9 @@
+# Ignore git.
+.gitignore
+.git/
+
+# Ignore docs.
+README.md
+
+# Ignore the license.
+LICENSE.txt
